@@ -4,8 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * summary
- * descripttions
+ * Software原型
+ * 存放已知软件，提供软件的拷贝
  *
  * @author Junqson
  * @date 2018/7/30 16:13

@@ -3,7 +3,7 @@ package DesignPattern.abstract_factory;
 import DesignPattern.factory.Color;
 
 /**
- * summary
+ * 抽象工厂
  * descripttions
  *
  * @author Junqson

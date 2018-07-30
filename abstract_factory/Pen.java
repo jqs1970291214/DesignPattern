@@ -1,7 +1,7 @@
 package DesignPattern.abstract_factory;
 
 /**
- * 颜色笔
+ * 笔接口
  * descripttions
  *
  * @author Junqson

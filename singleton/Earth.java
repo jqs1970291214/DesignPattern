@@ -1,7 +1,7 @@
 package DesignPattern.singleton;
 
 /**
- * summary
+ * 单例模式 -- 地球
  * descripttions
  *
  * @author Junqson
@@ -24,6 +24,8 @@ public class Earth {
     public static void main(String[] args) {
         Earth earth = Earth.getEarth();
         earth.roll();
+        Earth earth1 = Earth.getEarth();
+        System.out.println(earth == earth1);
     }
 
 }

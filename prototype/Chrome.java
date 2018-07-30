@@ -1,7 +1,7 @@
 package DesignPattern.prototype;
 
 /**
- * summary
+ * Chrome
  * descripttions
  *
  * @author Junqson

@@ -1,7 +1,7 @@
 package DesignPattern.prototype;
 
 /**
- * summary
+ * Photoshop
  * descripttions
  *
  * @author Junqson

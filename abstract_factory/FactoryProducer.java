@@ -3,8 +3,8 @@ package DesignPattern.abstract_factory;
 import DesignPattern.factory.ColorFactory;
 
 /**
- * summary
- * descripttions
+ * 工厂产生器
+ * 产生具体工厂，挂到抽象工厂下
  *
  * @author Junqson
  * @date 2018/7/30 15:28
