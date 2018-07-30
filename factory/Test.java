@@ -9,9 +9,10 @@ package DesignPattern.factory;
  */
 public class Test {
     public static void main(String[] args) {
-        Color red = ColorFactory.getColor("red");
-        Color green = ColorFactory.getColor("green");
-        Color black = ColorFactory.getColor("black");
+        ColorFactory colorFactory = new ColorFactory();
+        Color red = colorFactory.getColor("red");
+        Color green = colorFactory.getColor("green");
+        Color black = colorFactory.getColor("black");
         red.draw();
         green.draw();
         black.draw();
