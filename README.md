@@ -14,3 +14,6 @@ Learn Design Pattern
 - adapter
 - bridge
 - filter
+- composite
+- decorator
+- facade
