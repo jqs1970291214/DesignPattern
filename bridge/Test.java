@@ -16,6 +16,5 @@ public class Test {
         shape.draw();
         shape.setDrawAPI(greenCircle);
         shape.draw();
-
     }
 }
