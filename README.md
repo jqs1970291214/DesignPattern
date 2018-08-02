@@ -20,4 +20,6 @@ Learn Design Pattern
 - flyweight
 - proxy
 
+## 3. 行为型
 
+- observer
