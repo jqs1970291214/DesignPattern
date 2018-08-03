@@ -24,4 +24,6 @@ Learn Design Pattern
 
 - chain_of_responsibility
 - command
+- interpreter
 - observer
+
