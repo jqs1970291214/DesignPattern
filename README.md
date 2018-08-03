@@ -22,4 +22,6 @@ Learn Design Pattern
 
 ## 3. 行为型
 
+- chain_of_responsibility
+- command
 - observer
