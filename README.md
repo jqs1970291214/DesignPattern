@@ -26,5 +26,6 @@ Learn Design Pattern
 - command
 - interpreter
 - iterator
+- mediator
 - observer
 
