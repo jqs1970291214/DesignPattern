@@ -8,6 +8,7 @@ package DesignPattern.interpreter;
  * @date 2018/8/3 21:41
  */
 public class Test {
+
     //规则：Robert 和 John 是男性
     public static Expression getMaleExpression() {
         Expression robert = new TerminalExpression("Robert");
