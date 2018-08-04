@@ -28,4 +28,5 @@ Learn Design Pattern
 - iterator
 - mediator
 - observer
+- state
 
