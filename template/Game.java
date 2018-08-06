@@ -14,7 +14,7 @@ public abstract class Game {
 
     abstract void endPlay();
 
-    // 模板
+    // 模板 final 禁止被恶意重写
     public final void play() {
         // 初始化
         initialize();
