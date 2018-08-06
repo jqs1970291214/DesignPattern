@@ -8,6 +8,7 @@ package DesignPattern.state;
  * @date 2018/8/4 17:41
  */
 public class Test {
+
     public static void main(String[] args) {
         Context context = new Context();
 
@@ -18,5 +19,7 @@ public class Test {
         StopState stopState = new StopState();
         stopState.doAction(context);
         System.out.println(context.getState().toString());
+
+
     }
 }

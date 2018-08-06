@@ -29,4 +29,5 @@ Learn Design Pattern
 - mediator
 - observer
 - state
+- null_object
 
