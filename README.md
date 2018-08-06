@@ -30,4 +30,5 @@ Learn Design Pattern
 - observer
 - state
 - null_object
+- strategy
 
