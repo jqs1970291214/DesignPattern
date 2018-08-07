@@ -32,3 +32,5 @@ Learn Design Pattern
 - null_object
 - strategy
 - template
+- visitor
+- mvc
