@@ -1,7 +1,9 @@
+[其他型](#其他型)
+
 # DesignPattern
 Learn Design Pattern
 
-## 1. 创建型
+## 创建型
 
 - factory
 - abstract_factory
@@ -9,7 +11,7 @@ Learn Design Pattern
 - prototype
 - singleton
 
-## 2. 结构型
+## 结构型
 
 - adapter
 - bridge
@@ -20,7 +22,7 @@ Learn Design Pattern
 - flyweight
 - proxy
 
-## 3. 行为型
+## 行为型
 
 - chain_of_responsibility
 - command
@@ -34,3 +36,7 @@ Learn Design Pattern
 - template
 - visitor
 - mvc
+
+## 其他型
+
+- business_delegate
