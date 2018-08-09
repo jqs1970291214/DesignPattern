@@ -40,3 +40,4 @@ Learn Design Pattern
 ## 其他型
 
 - business_delegate
+- data_access_object
