@@ -41,3 +41,4 @@ Learn Design Pattern
 
 - business_delegate
 - data_access_object
+- intercepting_filter
