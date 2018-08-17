@@ -1,0 +1,4 @@
+一个顶级接口Shape，定义了操作draw()
+两个实现了Circle和Shape两个被装饰的实现类
+抽象类ShapeDecorator实现接口Shape，内部包含被装饰类的实例
+另有专门的装饰器扩展ShapeDecorator，在使用者不知情的情况下，扩展被装饰类的功能，保持对外接口（draw()）的统一。

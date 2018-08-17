@@ -1,7 +1,7 @@
 package DesignPattern.adapter;
 
 /**
- * summary
+ * 电脑类
  * descripttions
  *
  * @author Junqson

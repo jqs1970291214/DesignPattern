@@ -1,7 +1,7 @@
 package DesignPattern.adapter;
 
 /**
- * summary
+ * 内存卡类
  * descripttions
  *
  * @author Junqson
