@@ -1,0 +1,6 @@
+用于将抽象和实现分离，各自独立变化。
+
+在本例中：
+Shape作为桥接类，桥接其抽象和实现，内含DrawAPI和对外接口draw()，
+Circle继承Shape，封装了radis，x，y作为抽象部分，
+DrawAPI是接口，定义了行为draw()，RedCircle和GreenCircle作为其实现。
